@@ -1,0 +1,16 @@
+init     |  # initializes the repository
+config   |  # shows a bunch a config options
+clone    |  # clones the repo to your local machine
+add      |  # add those 'unknown' files
+rm       |  # ridiculously complicated command to undo, in case you forgot .gitignore
+commit   |  # importing a patch
+remote   |  # update local/remote sync
+push     |  # Sync local branch with remote
+pull     |  # merge changesets
+status   |  # shows status
+diff     |  # Fix conflicts
+reset    |  # Resets smth
+log      |  # shows log
+branch   |  # deletes branch
+checkout |  # goto
+merge    |  # merge changesets
